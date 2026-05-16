@@ -120,6 +120,6 @@ Public repository documenting:
 
 <div align="center">
 
-### Building skills publicly. One step at a time.
+### Building skills. One step at a time.
 
 </div>
