@@ -4,7 +4,7 @@
 
 ### Cybersecurity Student • SOC & Cloud Security Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Building+in+Public;Exploring+SOC+%26+Cloud+Security;Linux+%7C+SIEM+%7C+Networking;Hands-on+Labs+%26+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Exploring+SOC+%26+Cloud+Security;Linux+%7C+SIEM+%7C+Networking;Hands-on+Labs+%26+Projects" alt="Typing SVG" />
 
 </div>
 
